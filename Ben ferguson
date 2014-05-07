@@ -1,0 +1,7 @@
+input alist 
+  set blist to []
+  while len(alist).0:
+min=min(alist)
+remove min from alist
+append mix to blist
+output blist 
